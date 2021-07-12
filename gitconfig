@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = numansafi@live.com
+	name = Numan Safi
